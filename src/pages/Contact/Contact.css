@@ -1,0 +1,7 @@
+.contactpage {
+    display: flex;
+    background-color: #242424;
+    justify-content: center;
+    align-items: center;
+    height: 90svh;
+}

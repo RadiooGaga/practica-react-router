@@ -1,0 +1,12 @@
+
+.navigationDiv {
+    display: flex;
+    width: 100%;
+    text-align: center;
+    background-color: grey;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+

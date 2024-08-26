@@ -1,0 +1,8 @@
+.aboutpage {
+    display: flex;
+    background-color: #242424;
+    justify-content: center;
+    align-items: center;
+    min-height: 90svh;
+}
+
